@@ -35,7 +35,6 @@ A smart and interactive shopping cart that uses RFID technology and Arduino to a
 - Adding in-app payment processing for full automation.
 - Integrate with central inventory systems for large-scale retail use.
 
-# Documentation
-A detailed report explaining the design, hardware setup, and testing outcomes is available in the Documentation folder.
+
 
 
